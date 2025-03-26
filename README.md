@@ -8,11 +8,20 @@
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
 ## Directory Structure
-*to be updated*
 
 ```
 python_string_manipulation_without_builtin_methods/
-
+├── README.md
+├── custom_center_implementation.py
+├── custom_endswith_implementation.py
+├── custom_isupper_implementation.py
+├── custom_ljust_implementation.py
+├── custom_lower_implementation.py
+├── custom_lstrip_implementation.py
+├── custom_removeprefix_implementation.py
+├── custom_swapcase_implementation.py
+├── custom_title_implementation.py
+└── gistfile6_batch6.txt
 ```
 
 ## About the Author
