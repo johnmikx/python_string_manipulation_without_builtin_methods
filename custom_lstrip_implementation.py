@@ -68,7 +68,7 @@ print(f"Output: {result}")
 
 # Phase 6: Deployment
 
-# Program is ready for use and can be executed as part of the batch 5
+# Program is ready for use and can be executed as part of the batch 6
 
 # ------------------------------------------------------------------
 
