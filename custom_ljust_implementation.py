@@ -27,10 +27,10 @@
 
 # - Algorithm (input, process, output):
 #     1. Input the original string and the desired width
-#     2. Check if the string length is less than the specified with.
+#     2. Check if the string length is less than the specified with
 #        2.1. If True, add spaces to the right until the length matches the width
-#        2.2. If false, return the original string
-#     3. Display the left-justified string with padding if necessary.
+#        2.2. If False, return the original string
+#     3. Display the left-justified string with padding if necessary
 
 # ------------------------------------------------------------------
 
