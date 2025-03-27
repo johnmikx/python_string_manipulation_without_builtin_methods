@@ -62,15 +62,15 @@ print(f"Output: {result}")
 
 # Test Case 1:
 # - Input: "MIKE KAIZEN"
-# - Expected Output: "True"
+# - Expected Output: True
 
 # Test Case 2:
 # - Input: "HELLO WORLD!"
-# - Expected Output: "True"
+# - Expected Output: True
 
 # Test Case 3:
 # - Input: "Hello World"
-# - Expected Output: "False"
+# - Expected Output: False
 
 # ------------------------------------------------------------------
 
