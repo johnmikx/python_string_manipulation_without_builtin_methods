@@ -27,8 +27,8 @@
 # - Algorithm (input, process, output):
 #     1. Input the string with mixed case from the user
 #     2. Iterate through each character
-#        2.1. If the character is an uppercase letter (A-Z), convert it to lowercase.
-#        2.2. If the character is a lowercase letter (a-z), convert it to uppercase.
+#        2.1. If the character is an uppercase letter (A-Z), convert it to lowercase
+#        2.2. If the character is a lowercase letter (a-z), convert it to uppercase
 #        2.3. Leave non-alphabetic characters unchanged
 #     3. Display the string with swapped character cases
 # ------------------------------------------------------------------
