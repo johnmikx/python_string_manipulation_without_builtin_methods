@@ -38,7 +38,7 @@
 
 # Input the original string and desired width
 text = input("Enter the original string: ")
-width = int(input("Enter the substring to check: "))
+width = int(input("Enter the desired width: "))
 
 # Check if the string length is less than the specified width
 if len(text) >= width:
