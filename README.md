@@ -1,4 +1,4 @@
-*[description, to be updated]*
+A collection of Python programs that replicate built-in string manipulation method using custom implementations, focusing on understanding string processing techniques without relying on standard library functions.
 
 ### Course Information
 
