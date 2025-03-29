@@ -16,7 +16,7 @@
 
 # - Requirements:
 #     - Remove all consecutive space characters from the beginning of a string
-#     - Work with strings containing multipe leading spaces
+#     - Work with strings containing multiple leading spaces
 #     - Preserve the original text content includng the internal spaces
 #     - Cannot use built-in lstrip() method
 
