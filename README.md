@@ -3,7 +3,7 @@ A collection of Python programs that replicate built-in string manipulation meth
 ### Course Information
 
 - **Course:** `CMPE 103` Object Oriented Programming
-- **Assignment:** Basic Python Programming Exercises: String Manipulation Without Built-In Methods (Batch 6)
+- **Assignment:** Basic Python Programming Exercises: String Manipulation Without Built-In Methods (Batch 6 and Batch 7)
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
 
@@ -11,6 +11,18 @@ A collection of Python programs that replicate built-in string manipulation meth
 
 ```
 python_string_manipulation_without_builtin_methods/
+├── python_string_manipulation_without_builtin_methods_part2/
+│   ├── custom_count_implementation.py
+│   ├── custom_index_implementation.py
+│   ├── custom_islower_implementation.py
+│   ├── custom_removesuffix_implementation.py
+│   ├── custom_rindex_implementation.py
+│   ├── custom_rjust_implementation.py
+│   ├── custom_rstrip_implementation.py
+│   ├── custom_startswith_implementation.py
+│   ├── custom_upper_implementation.py
+│   ├── custom_zfill_implementation.py
+│   └── gistfile7_batch7.txt
 ├── README.md
 ├── custom_center_implementation.py
 ├── custom_endswith_implementation.py
